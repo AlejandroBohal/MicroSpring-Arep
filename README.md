@@ -53,9 +53,9 @@ mvn test
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 * CircleCI for CI
-    [![CircleCI](https://circleci.com/gh/AlejandroBohal/AREP-CalculadoraEstadistica.svg?style=svg)](https://circleci.com/gh/AlejandroBohal/AREP-CalculadoraEstadistica)
+    [![CircleCI](https://circleci.com/gh/AlejandroBohal/MicroSpring-Arep.svg?style=svg)](https://circleci.com/gh/AlejandroBohal/MicroSpring-Arep) 
 * Build to Heroku
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://fathomless-bayou-96611.herokuapp.com/)
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://cryptic-cliffs-94626.herokuapp.com/)
 *  MicroSpring
 
 
